@@ -1,0 +1,24 @@
+.mainpic{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    text-align: center;
+}
+
+.pop{
+    transition: 0.3s;
+    cursor: pointer;
+}
+
+.pop:hover{
+    transform: scale(1.2);
+}
+
+.cardpop{
+    transition: 0.3s;
+    cursor: pointer;
+}  
+
+.cardpop:hover{
+    transform: scale(1.05);
+}
